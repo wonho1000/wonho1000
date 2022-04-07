@@ -1,4 +1,5 @@
-### Hi 모두들 안녕 :) 👋
+### 1조 프로젝트
+    인간융합로봇기술  :) 👋
 
 <!--
 **wonho1000/wonho1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-** 20184220 이원호 **
+** 20184220 이원호, 2018 공선유 ** 
