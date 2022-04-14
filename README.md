@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ** 20184220 이원호, 20184211 공선유 ** 
+1조의 목적: 숫자 계산 프로그램 작성
+프로그래밍 언언 : C 
