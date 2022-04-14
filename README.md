@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ** 20184220 이원호, 20184211 공선유 ** 
+- 1조 프로젝트명 : 저축 프로젝트 제작
+- C언어 
