@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ** 20184220 이원호, 2018 공선유 ** 
+우리조의 목표 - 
