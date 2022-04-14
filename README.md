@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ** 20184220 이원호, 2018 공선유 ** 
-우리조의 목표 - 
+
+1조의 목적 자동화 관련 프로그램 작성하기
+- 랜덤함수 
